@@ -1,0 +1,22 @@
+{
+    "Login": "Iniciar Sesión",
+    "Sign in": "Ingresar al Sistema",
+    "Email address": "Correo electrónico",
+    "Password": "Contraseña",
+    "Remember me": "Recordar sesión",
+    "Sign out": "Cerrar sesión",
+    "Dashboard": "Dashboard y Reportes",
+    "Create": "Registrar",
+    "Edit": "Editar",
+    "Delete": "Eliminar",
+    "View": "Ver",
+    "Save": "Guardar",
+    "Save changes": "Guardar cambios",
+    "Cancel": "Cancelar",
+    "Search": "Buscar",
+    "Filters": "Filtros",
+    "Reset": "Restablecer",
+    "Actions": "Acciones",
+    "No records found": "No se encontraron registros"
+}
+
