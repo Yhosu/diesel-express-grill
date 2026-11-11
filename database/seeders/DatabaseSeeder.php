@@ -52,6 +52,7 @@ class DatabaseSeeder extends Seeder
                 'name' => 'Subadministrador Operativo',
                 'role' => UserRole::SUB_ADMIN->value,
                 'is_active' => true,
+                
                 'password' => Hash::make('password'),
             ]
         );
